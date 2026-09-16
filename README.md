@@ -1,4 +1,5 @@
 # Family Tree in Prolog
+![lab3ai](Screenshot 2026-09-16 104630.png)
 
 ## Description
 
