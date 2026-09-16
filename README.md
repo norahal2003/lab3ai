@@ -3,22 +3,20 @@
 ![lab3ai](famlytree.png)
 ## Description
 
-This project represents a family tree using Prolog.
+This lab represents a family tree using Prolog.
 
-It shows the relationships between family members and allows users to query information about parents, children, brothers, sisters, and other family connections.
+It shows the relationships between family members and allows me to query information about parents, brothers, sisters, and other family connections.
 
 ## Family Members
 
 Haif is the main parent in the family tree.
 
-Haif has three children:
+Haif has two children:
 
-- Mufreh
 - Alhanouf
 - Sara
-
+  
 Mufreh has the following children:
-
 - Mohammed
 - Fahad
 - Hadeel
@@ -29,7 +27,7 @@ Mufreh has the following children:
 
 ## Relationships
 
-The project represents the following relationships:
+The lab represents the following relationships:
 
 - Male family members
 - Female family members
@@ -39,19 +37,9 @@ The project represents the following relationships:
 - Brother
 - Sister
 
-## Purpose
 
-The purpose of this project is to practice representing family relationships using facts and rules in Prolog.
+## The queries
 
-It also helps demonstrate how Prolog can be used to:
-
-- Represent facts
-- Create rules
-- Query relationships
-- Find family members
-- Use logical reasoning
-
-## How to Run
 
 1. Open the Prolog file in SWI-Prolog.
 2. Load the program.
