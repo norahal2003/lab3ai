@@ -1,6 +1,6 @@
 # Family Tree in Prolog
 
-![lab3ai](famltree.png)
+![lab3ai](famlytree.png)
 ## Description
 
 This project represents a family tree using Prolog.
