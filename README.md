@@ -47,3 +47,9 @@ The lab represents the following relationships:
 
 ```prolog
 ?- consult('myprogram.pl').
+
+### 1. Who is the father of Sara?
+
+```prolog
+?- father(X, sara).
+X = haif.
